@@ -1,8 +1,7 @@
 ### Aoba!!!  Eu sou Erickson, e esse é o meu git
 
 - 🔭 Atualmente estudando
-- 🌱 Aprendendo Java e Android
-- ☕ Vai um cafézinho aí, filho da puta ?
+- 🌱 Aprendendo DevOps
 
 <div align="center">
   <a href="https://github.com/Ericksongit">
