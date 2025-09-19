@@ -1,4 +1,4 @@
-### Aoba!!!  Eu sou Erickson, e esse é o meu git
+### Aoba!!!  Eu sou Henrique, e esse é o meu git
 
 - 🔭 Atualmente estudando
 - 🌱 Aprendendo DevOps
